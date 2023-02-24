@@ -1,0 +1,17 @@
+D:\Computer Programming\Song Player\SongPlayer\obj\Debug\Song Player.csprojAssemblyReference.cache
+D:\Computer Programming\Song Player\SongPlayer\obj\Debug\SongPlayer.SongPlayerForm.resources
+D:\Computer Programming\Song Player\SongPlayer\obj\Debug\Song_Player.Properties.Resources.resources
+D:\Computer Programming\Song Player\SongPlayer\obj\Debug\Song Player.csproj.GenerateResource.cache
+D:\Computer Programming\Song Player\SongPlayer\bin\Debug\SongPlayer.exe
+D:\Computer Programming\Song Player\SongPlayer\bin\Debug\SongPlayer.pdb
+D:\Computer Programming\Song Player\SongPlayer\obj\Debug\SongPlayer.exe
+D:\Computer Programming\Song Player\SongPlayer\obj\Debug\SongPlayer.pdb
+S:\Projects\project Musgrave CPII\AIK0146\Song Player\SongPlayer\bin\Debug\SongPlayer.exe
+S:\Projects\project Musgrave CPII\AIK0146\Song Player\SongPlayer\bin\Debug\SongPlayer.pdb
+S:\Projects\project Musgrave CPII\AIK0146\Song Player\SongPlayer\obj\Debug\Song Player.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\AIK0146\Song Player\SongPlayer\obj\Debug\SongPlayer.SongPlayerForm.resources
+S:\Projects\project Musgrave CPII\AIK0146\Song Player\SongPlayer\obj\Debug\Song_Player.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\AIK0146\Song Player\SongPlayer\obj\Debug\Song Player.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\AIK0146\Song Player\SongPlayer\obj\Debug\Song Player.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\AIK0146\Song Player\SongPlayer\obj\Debug\SongPlayer.exe
+S:\Projects\project Musgrave CPII\AIK0146\Song Player\SongPlayer\obj\Debug\SongPlayer.pdb

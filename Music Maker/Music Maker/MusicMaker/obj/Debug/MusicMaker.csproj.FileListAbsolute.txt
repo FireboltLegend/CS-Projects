@@ -1,0 +1,29 @@
+S:\Projects\project Musgrave CPII\AIK0146\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe.config
+S:\Projects\project Musgrave CPII\AIK0146\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe
+S:\Projects\project Musgrave CPII\AIK0146\MusicMaker\MusicMaker\bin\Debug\MusicMaker.pdb
+S:\Projects\project Musgrave CPII\AIK0146\MusicMaker\MusicMaker\obj\Debug\MusicMaker.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\AIK0146\MusicMaker\MusicMaker\obj\Debug\MusicMaker.MusicMaker.resources
+S:\Projects\project Musgrave CPII\AIK0146\MusicMaker\MusicMaker\obj\Debug\MusicMaker.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\AIK0146\MusicMaker\MusicMaker\obj\Debug\MusicMaker.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\AIK0146\MusicMaker\MusicMaker\obj\Debug\MusicMaker.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\AIK0146\MusicMaker\MusicMaker\obj\Debug\MusicMaker.exe
+S:\Projects\project Musgrave CPII\AIK0146\MusicMaker\MusicMaker\obj\Debug\MusicMaker.pdb
+D:\Computer Programming\Music Maker\MusicMaker\bin\Debug\MusicMaker.exe.config
+D:\Computer Programming\Music Maker\MusicMaker\bin\Debug\MusicMaker.exe
+D:\Computer Programming\Music Maker\MusicMaker\bin\Debug\MusicMaker.pdb
+D:\Computer Programming\Music Maker\MusicMaker\obj\Debug\MusicMaker.csprojAssemblyReference.cache
+D:\Computer Programming\Music Maker\MusicMaker\obj\Debug\MusicMaker.MusicMaker.resources
+D:\Computer Programming\Music Maker\MusicMaker\obj\Debug\MusicMaker.Properties.Resources.resources
+D:\Computer Programming\Music Maker\MusicMaker\obj\Debug\MusicMaker.csproj.GenerateResource.cache
+D:\Computer Programming\Music Maker\MusicMaker\obj\Debug\MusicMaker.exe
+D:\Computer Programming\Music Maker\MusicMaker\obj\Debug\MusicMaker.pdb
+S:\Projects\project Musgrave CPII\AIK0146\Music Maker\MusicMaker\bin\Debug\MusicMaker.exe.config
+S:\Projects\project Musgrave CPII\AIK0146\Music Maker\MusicMaker\bin\Debug\MusicMaker.exe
+S:\Projects\project Musgrave CPII\AIK0146\Music Maker\MusicMaker\bin\Debug\MusicMaker.pdb
+S:\Projects\project Musgrave CPII\AIK0146\Music Maker\MusicMaker\obj\Debug\MusicMaker.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\AIK0146\Music Maker\MusicMaker\obj\Debug\MusicMaker.MusicMaker.resources
+S:\Projects\project Musgrave CPII\AIK0146\Music Maker\MusicMaker\obj\Debug\MusicMaker.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\AIK0146\Music Maker\MusicMaker\obj\Debug\MusicMaker.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\AIK0146\Music Maker\MusicMaker\obj\Debug\MusicMaker.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\AIK0146\Music Maker\MusicMaker\obj\Debug\MusicMaker.exe
+S:\Projects\project Musgrave CPII\AIK0146\Music Maker\MusicMaker\obj\Debug\MusicMaker.pdb

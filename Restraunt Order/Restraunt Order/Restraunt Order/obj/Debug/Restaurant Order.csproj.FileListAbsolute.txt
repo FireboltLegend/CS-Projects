@@ -1,0 +1,9 @@
+D:\Computer Programming\Restraunt Order\Restraunt Order\bin\Debug\Restraunt Order.exe.config
+D:\Computer Programming\Restraunt Order\Restraunt Order\bin\Debug\Restraunt Order.exe
+D:\Computer Programming\Restraunt Order\Restraunt Order\bin\Debug\Restraunt Order.pdb
+D:\Computer Programming\Restraunt Order\Restraunt Order\obj\Debug\Restaurant Order.csprojAssemblyReference.cache
+D:\Computer Programming\Restraunt Order\Restraunt Order\obj\Debug\Restraunt_Order.Properties.Resources.resources
+D:\Computer Programming\Restraunt Order\Restraunt Order\obj\Debug\Restraunt_Order.Form1.resources
+D:\Computer Programming\Restraunt Order\Restraunt Order\obj\Debug\Restaurant Order.csproj.GenerateResource.cache
+D:\Computer Programming\Restraunt Order\Restraunt Order\obj\Debug\Restraunt Order.exe
+D:\Computer Programming\Restraunt Order\Restraunt Order\obj\Debug\Restraunt Order.pdb

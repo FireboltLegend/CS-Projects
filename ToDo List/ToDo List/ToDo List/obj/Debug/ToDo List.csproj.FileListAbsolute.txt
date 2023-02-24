@@ -1,0 +1,10 @@
+S:\Projects\project Musgrave CPII\AIK0146\ToDo List\ToDo List\bin\Debug\ToDo List.exe.config
+S:\Projects\project Musgrave CPII\AIK0146\ToDo List\ToDo List\bin\Debug\ToDo List.exe
+S:\Projects\project Musgrave CPII\AIK0146\ToDo List\ToDo List\bin\Debug\ToDo List.pdb
+S:\Projects\project Musgrave CPII\AIK0146\ToDo List\ToDo List\obj\Debug\ToDo List.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\AIK0146\ToDo List\ToDo List\obj\Debug\ToDo_List.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\AIK0146\ToDo List\ToDo List\obj\Debug\ToDo_List.ToDo_List.resources
+S:\Projects\project Musgrave CPII\AIK0146\ToDo List\ToDo List\obj\Debug\ToDo List.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\AIK0146\ToDo List\ToDo List\obj\Debug\ToDo List.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\AIK0146\ToDo List\ToDo List\obj\Debug\ToDo List.exe
+S:\Projects\project Musgrave CPII\AIK0146\ToDo List\ToDo List\obj\Debug\ToDo List.pdb

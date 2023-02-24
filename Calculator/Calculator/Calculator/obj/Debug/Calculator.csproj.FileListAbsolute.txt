@@ -1,0 +1,18 @@
+C:\Users\Abbas Khawaja\Downloads\Computer Programming\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Abbas Khawaja\Downloads\Computer Programming\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Abbas Khawaja\Downloads\Computer Programming\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Abbas Khawaja\Downloads\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Abbas Khawaja\Downloads\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\Abbas Khawaja\Downloads\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Abbas Khawaja\Downloads\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Abbas Khawaja\Downloads\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Abbas Khawaja\Downloads\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Computer Programming\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Computer Programming\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Computer Programming\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+E:\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Computer Programming\Calculator\Calculator\obj\Debug\Calculator.pdb

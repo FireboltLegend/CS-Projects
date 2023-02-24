@@ -1,0 +1,10 @@
+S:\Projects\project Musgrave CPII\AIK0146\Restraunt Order\Restraunt Order\bin\Debug\Restraunt Order.exe.config
+S:\Projects\project Musgrave CPII\AIK0146\Restraunt Order\Restraunt Order\bin\Debug\Restraunt Order.exe
+S:\Projects\project Musgrave CPII\AIK0146\Restraunt Order\Restraunt Order\bin\Debug\Restraunt Order.pdb
+S:\Projects\project Musgrave CPII\AIK0146\Restraunt Order\Restraunt Order\obj\Debug\Restraunt Order.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\AIK0146\Restraunt Order\Restraunt Order\obj\Debug\Restraunt_Order.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\AIK0146\Restraunt Order\Restraunt Order\obj\Debug\Restraunt_Order.Form1.resources
+S:\Projects\project Musgrave CPII\AIK0146\Restraunt Order\Restraunt Order\obj\Debug\Restraunt Order.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\AIK0146\Restraunt Order\Restraunt Order\obj\Debug\Restraunt Order.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\AIK0146\Restraunt Order\Restraunt Order\obj\Debug\Restraunt Order.exe
+S:\Projects\project Musgrave CPII\AIK0146\Restraunt Order\Restraunt Order\obj\Debug\Restraunt Order.pdb
