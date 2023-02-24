@@ -1,0 +1,4 @@
+Run what.s (downloadable from "Programming Project 1" on eLearning) in MARS, examine the corresponding registers in the MARS windows, and look in the code of what.s,
+and try to work out what it does. Check whether the program works if the argument is changed to 6, 1, 0, 10, 20, etc. Answer what the program does in one sentence.
+
+The program repeats an addition of the argument an argument-numbered of times, essentially taking the square of a given argument and storing that in register $s3.
